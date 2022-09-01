@@ -2,6 +2,6 @@
 Boilerplate for JavaScript promises
 
 Ref:
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+[Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
-(promises){https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises}
+[Promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
